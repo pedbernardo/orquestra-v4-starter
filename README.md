@@ -36,7 +36,7 @@ yarn dev
 
 <br>
 
-[Mais informações sobre configuração](#aaa)
+[Mais informações sobre configuração](#configurações)
 
 <br>
 
