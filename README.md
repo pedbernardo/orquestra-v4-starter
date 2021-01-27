@@ -3,8 +3,6 @@ Template de projeto para Orquestra v4
 
 ## Instalação
 
-### npm
-
 ```sh
 npm install
 
@@ -43,6 +41,10 @@ yarn dev
 ### 📦 Criando Build
 ```sh
 npm run build
+
+# ou
+
+yarn build
 ```
 
 > Os arquivos de build são salvos na pasta `dist` (por padrão)
